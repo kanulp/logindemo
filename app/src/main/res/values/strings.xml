@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login by Karan Gajjar</string>
+
+    <string name="hello_world">
+Follow me on twitter - https://www.twiiter.com/kanu_lp \n
+Linked in  : https://www.linkedin.com/in/karangajjar \n
+My developer account : goo.gl/gmzl4t \n
+Github : https://github.com/kanulp
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
